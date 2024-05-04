@@ -4,6 +4,5 @@ project(C4P)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(C4P
-        C4P3-1.cpp
-        C4P3-2.cpp
+        C4P3-9.cpp
 )
