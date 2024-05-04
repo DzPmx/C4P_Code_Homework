@@ -49,7 +49,7 @@ cmake_ninja_workdir = F$:\C++\C4P\cmake-build-debug\
 
 build cmake_object_order_depends_target_C4P: phony || CMakeFiles\C4P.dir
 
-build CMakeFiles\C4P.dir\C4P3-9.cpp.obj: CXX_COMPILER__C4P_unscanned_Debug F$:\C++\C4P\C4P3-9.cpp || cmake_object_order_depends_target_C4P
+build CMakeFiles\C4P.dir\C4P3-14_Homework.cpp.obj: CXX_COMPILER__C4P_unscanned_Debug F$:\C++\C4P\C4P3-14_Homework.cpp || cmake_object_order_depends_target_C4P
   FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi
   OBJECT_DIR = CMakeFiles\C4P.dir
   OBJECT_FILE_DIR = CMakeFiles\C4P.dir
@@ -64,7 +64,7 @@ build CMakeFiles\C4P.dir\C4P3-9.cpp.obj: CXX_COMPILER__C4P_unscanned_Debug F$:\C
 #############################################
 # Link the executable C4P.exe
 
-build C4P.exe: CXX_EXECUTABLE_LINKER__C4P_Debug CMakeFiles\C4P.dir\C4P3-9.cpp.obj
+build C4P.exe: CXX_EXECUTABLE_LINKER__C4P_Debug CMakeFiles\C4P.dir\C4P3-14_Homework.cpp.obj
   FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -MDd -Zi
   LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console
   LINK_LIBRARIES = kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
