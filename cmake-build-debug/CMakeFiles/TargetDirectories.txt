@@ -1,3 +1,0 @@
-F:/C++/C4P/cmake-build-debug/CMakeFiles/C4P.dir
-F:/C++/C4P/cmake-build-debug/CMakeFiles/edit_cache.dir
-F:/C++/C4P/cmake-build-debug/CMakeFiles/rebuild_cache.dir
