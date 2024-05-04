@@ -4,5 +4,5 @@ project(C4P)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(C4P
-        C4P3-14_Homework.cpp
+        NoteHomework/C4P3-14_Homework.cpp
 )
