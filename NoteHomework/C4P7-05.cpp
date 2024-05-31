@@ -3,7 +3,7 @@
 //
 
 #include "iostream"
-const int ArSize = 8;
+constexpr int ArSize = 8;
 int sum_arr(int arr[], int n);
 
 int main() {
